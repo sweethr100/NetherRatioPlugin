@@ -1,0 +1,4 @@
+name: NetherRatioPlugin
+version: '1.0-SNAPSHOT'
+main: seml.netherRatioPlugin.NetherRatioPlugin
+api-version: '1.21'
